@@ -4,7 +4,7 @@
   python start.py -i the path of folder of bestgnsspost.asc
 
   eg:
-  python start.py -i /home/slam/EcarxTools_202102/asc2kml
+  python start.py -i /home/slam/xxxxxTools_202102/asc2kml
 
 2  windows:
   修改start_windows.py中ASC文件夹的目录，
